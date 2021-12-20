@@ -38,7 +38,7 @@
                                                                  /#,..*,,*,    */(*                               *(#(//(((             *,. ..        
     HO, HO, HO dear fellow DC4131ers!                           (#%,,,,///   .,,//                                   *###(((/,       .,..,,,.         
                                                                            #..***,                                     (#((((*      &%,,,*.#          
-    This repo is reserved for your prime x-mas cookie recipes.             (#**,*                                        */##((*     #(%%&%            
+    This repo is reserved for your nerdy x-mas cookie recipes.             (#**,*                                        */##((*     #(%%&%            
                                                                           ,,(                                              /(***    *##%,             
     Either send pull requests or send in your recipe to the board                                                          */,.  .                    
     and we will add it to the repo for you.                                                                                  /**,,,,                  
